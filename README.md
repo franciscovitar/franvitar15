@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francisco Vitar</h1>
-<h3 align="center">A Fronted Developer from Argentina</h3>
+<h3 align="center">A Frontend Developer from Argentina</h3>
 
 - 🌱 I’m currently learning **React.js, Javascript, Libraries**
 
